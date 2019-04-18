@@ -2,3 +2,11 @@
 .sidebar .main-info .sidebar-title {
   text-transform: none;
 }
+
+
+#timeline .timeline-item .timeline-content .company {
+  font-size: large;
+  padding-top: .5rem;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.6);
+}
