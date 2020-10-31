@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://b-abel.github.io/datenschutzerklaerung/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://b-abel.github.io/</loc>
   </url>
   
